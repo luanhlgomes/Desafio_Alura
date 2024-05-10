@@ -5,7 +5,7 @@ Já se perguntou qual a raça exata do seu cãozinho de estimação? Ou talvez v
 Nossa inovadora aplicação utiliza o poder da inteligência artificial do Google Cloud Vision API para analisar imagens de animais e fornecer informações fascinantes sobre eles. Com apenas um clique, você pode descobrir:
 
 Raça: Identifique a raça do seu animal de estimação com precisão, desde as mais comuns até as mais exóticas.
-Temperamento: Conheça as características comportamentais típicas da raça, como nível de energia, sociabilidade e necessidades de treinamento.
+Temperamento: Conheça as características comportamentais típicas da raça, como nível de energia, sociabilidade e necessidades de treinamento.<br>
 País de Origem: Descubra de onde vem a linhagem do seu amigo peludo e explore a história fascinante por trás da raça.
 
 E tem mais!
