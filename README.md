@@ -1,6 +1,6 @@
 # Desafio_Alura
 Descubra os Segredos do Seu Amigo Peludo com um Click!<br>
-Já se perguntou qual a raça exata do seu cãozinho de estimação? Ou talvez você esteja curioso sobre a origem e temperamento daquele gatinho que acabou de adotar? Apresentamos a solução perfeita para desvendar os mistérios do seu companheiro animal!<br>
+Já se perguntou qual a raça exata do seu cãozinho de estimação? Ou talvez você esteja curioso sobre a origem e temperamento daquele gatinho que acabou de adotar?<br>Apresentamos a solução perfeita para desvendar os mistérios do seu companheiro animal!<br>
 <br>
 Nossa inovadora aplicação utiliza o poder da inteligência artificial do Google Cloud Vision API para analisar imagens de animais e fornecer informações fascinantes sobre eles. Com apenas um clique, você pode descobrir:<br>
 <br>
